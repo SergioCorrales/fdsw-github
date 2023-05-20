@@ -1,6 +1,22 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+.btn-black {
+  color: #fff;
+  background-color: #000000;
+  border-color: #fff;
+}
+.btn-black:hover{
+  color: #878787;
+}
+.btn-outline-black {
+      color: #fff; 
+      background-color: transparent; 
+      border-color: #fff; 
+}
+.btn-outline-black:hover{
+  background-color: #000;
+}
 
 /* Hero Section */
 
